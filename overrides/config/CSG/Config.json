@@ -1,0 +1,9 @@
+{
+  "inventory": {
+    "0:7": "{Count:1b,id:\"firstaid:bandage\"}",
+    "0:1": "{Count:1b,id:\"sophisticatedbackpacks:backpack\"}",
+    "0:0": "{Count:1b,id:\"minecraft:wooden_axe\",tag:{Damage:0}}",
+    "0:8": "{Count:2b,id:\"firstaid:plaster\"}"
+  },
+  "wipeBlacklist": []
+}
