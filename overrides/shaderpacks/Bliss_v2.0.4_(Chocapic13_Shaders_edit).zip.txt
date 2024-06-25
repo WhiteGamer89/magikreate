@@ -1,0 +1,5 @@
+#Tue Jun 25 00:08:16 CEST 2024
+Rough_reflections=true
+Screen_Space_Reflections=true
+Sky_reflection=true
+Specular_Reflections=true

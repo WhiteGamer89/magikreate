@@ -1,0 +1,6 @@
+#Tue Jun 25 23:25:18 CEST 2024
+shadowDistance=512.0
+shadowMapResolution=3072
+WATER_MODE=2
+DOF=true
+ADVANCED_MATERIALS=true
